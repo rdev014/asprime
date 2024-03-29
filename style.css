@@ -1374,6 +1374,14 @@ footer {
        .contact-address p {
         font-size: 14px;
     }
+    .apimg{
+        animation:apimage none;
+    }
+    @keyframes apimage{
+        100%{
+            transform: rotate(0deg);
+        }
+    }
 }
 
 .apimg{
