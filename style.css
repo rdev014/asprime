@@ -1384,14 +1384,6 @@ footer {
     }
 }
 
-.apimg{
-    animation: apimage linear infinite 12s;
-}
-@keyframes apimage{
-    100%{
-        transform: rotate(360deg);
-    }
-}
 .navbar-brand img{
     height: 60px;
 }
